@@ -1,0 +1,8 @@
+{
+  "mode": "paper",
+  "live_enabled": false,
+  "accounts": [
+    {"id": "paper-in", "currency": "INR", "settled_cash": 100000, "exchanges": ["XNSE"]}
+  ],
+  "fx_paper": {"USD": 84.0, "JPY": 0.56}
+}

@@ -1,0 +1,10 @@
+{
+  "_note": "tick_size/lot_size are PLACEHOLDERS (verified=false) until confirmed against the exchange/broker instrument master.",
+  "instruments": [
+    {"id": "XNSE:RELIANCE", "exchange": "XNSE", "symbol": "RELIANCE", "currency": "INR", "tick_size": 0.05, "lot_size": 1, "sector": "energy", "verified": false},
+    {"id": "XNSE:TCS", "exchange": "XNSE", "symbol": "TCS", "currency": "INR", "tick_size": 0.05, "lot_size": 1, "sector": "it", "verified": false},
+    {"id": "XNSE:INFY", "exchange": "XNSE", "symbol": "INFY", "currency": "INR", "tick_size": 0.05, "lot_size": 1, "sector": "it", "verified": false},
+    {"id": "XNYS:AAPL", "exchange": "XNYS", "symbol": "AAPL", "currency": "USD", "tick_size": 0.01, "lot_size": 1, "sector": "it", "verified": false},
+    {"id": "XJPX:7203", "exchange": "XJPX", "symbol": "7203", "currency": "JPY", "tick_size": 0.5, "lot_size": 100, "sector": "auto", "verified": false}
+  ]
+}

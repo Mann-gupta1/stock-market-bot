@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+data/
+*.db
+*.db-*
+holdings.json
+trades.csv
+journal.csv
+.env
+.pytest_cache/
+.hypothesis/

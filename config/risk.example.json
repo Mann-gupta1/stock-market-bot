@@ -1,0 +1,16 @@
+{
+  "version": "2026-11-02.1",
+  "base_currency": "INR",
+  "base_tz": "Asia/Kolkata",
+  "max_position_value": 50000,
+  "max_order_qty": 500,
+  "max_strategy_exposure": 100000,
+  "max_sector_exposure": 75000,
+  "max_gross_exposure": 150000,
+  "max_daily_loss": 3000,
+  "max_drawdown": 0.10,
+  "max_spread_bps": 15,
+  "max_slippage_bps": 5,
+  "max_quote_age_ms": 1500,
+  "risk_per_trade": 500
+}

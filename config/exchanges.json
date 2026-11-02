@@ -1,0 +1,99 @@
+{
+ "_note": "Continuous-session hours only (no pre-open/closing auction). holidays/early_closes are PLACEHOLDERS until verified from the exchange's own calendar - see docs/REGULATORY.md.",
+ "XNSE": {
+  "tz": "Asia/Kolkata",
+  "open": "09:15",
+  "close": "15:15",
+  "breaks": [],
+  "holidays": [
+   "2026-11-10",
+   "2026-11-24",
+   "2026-12-25"
+  ],
+  "early_closes": {},
+  "verified": false,
+  "_src": "docs/REGULATORY.md (verified 2026-11-02): closing auction 15:15-15:35 for F&O stocks since 2026-08-03 -> continuous trading treated as ending 15:15; pre-open 09:00-09:15 excluded"
+ },
+ "XJPX": {
+  "tz": "Asia/Tokyo",
+  "open": "09:00",
+  "close": "15:25",
+  "breaks": [
+   [
+    "11:30",
+    "12:30"
+   ]
+  ],
+  "holidays": [],
+  "early_closes": {},
+  "verified": false
+ },
+ "XHKG": {
+  "tz": "Asia/Hong_Kong",
+  "open": "09:30",
+  "close": "16:00",
+  "breaks": [
+   [
+    "12:00",
+    "13:00"
+   ]
+  ],
+  "holidays": [],
+  "early_closes": {},
+  "verified": false
+ },
+ "XASX": {
+  "tz": "Australia/Sydney",
+  "open": "10:10",
+  "close": "16:00",
+  "breaks": [],
+  "holidays": [],
+  "early_closes": {},
+  "verified": false
+ },
+ "XLON": {
+  "tz": "Europe/London",
+  "open": "08:00",
+  "close": "16:30",
+  "breaks": [],
+  "holidays": [],
+  "early_closes": {},
+  "verified": false
+ },
+ "XETR": {
+  "tz": "Europe/Berlin",
+  "open": "09:00",
+  "close": "17:30",
+  "breaks": [],
+  "holidays": [],
+  "early_closes": {},
+  "verified": false
+ },
+ "XPAR": {
+  "tz": "Europe/Paris",
+  "open": "09:00",
+  "close": "17:30",
+  "breaks": [],
+  "holidays": [],
+  "early_closes": {},
+  "verified": false
+ },
+ "XNYS": {
+  "tz": "America/New_York",
+  "open": "09:30",
+  "close": "16:00",
+  "breaks": [],
+  "holidays": [],
+  "early_closes": {},
+  "verified": false
+ },
+ "XTSE": {
+  "tz": "America/Toronto",
+  "open": "09:30",
+  "close": "16:00",
+  "breaks": [],
+  "holidays": [],
+  "early_closes": {},
+  "verified": false
+ }
+}
